@@ -1,0 +1,6 @@
+import org.apache.hadoop.io.SequenceFile.CompressionType;
+public class FunctionUse7090 {
+public void funcUse() {
+CompressionType compressiontype = new CompressionType();
+}
+}
